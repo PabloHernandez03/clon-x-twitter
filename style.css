@@ -1,0 +1,30 @@
+
+input:focus{
+    outline: none;
+}
+div.right_side_bar{
+    position: fixed;
+    right: 30px;
+    top: 10px;
+}
+.left_sidebar{
+    position: sticky;
+    top: 0px;
+    height: fit-content;
+}
+svg{
+    height: 40px;
+}
+.checked{
+    border-bottom: 3px solid rgb(13,202,240);
+}
+a:hover{
+   border-bottom: 1px solid rgb(13,202,240);
+}
+img{
+    max-width: 100%;
+    border: 1px solid #dee2e6;
+}
+video{
+    height:10px;
+}
